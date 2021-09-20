@@ -1,0 +1,3 @@
+/home/aimar/grpcp/testClient/protos/build/CMakeFiles/rebuild_cache.dir
+/home/aimar/grpcp/testClient/protos/build/CMakeFiles/Proto.dir
+/home/aimar/grpcp/testClient/protos/build/CMakeFiles/edit_cache.dir
